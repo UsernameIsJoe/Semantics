@@ -14,12 +14,12 @@ analyze aspects such as building types, user groups, or even the emotional ambia
 
 ## Setup
 
-The script was previously developed insdie Google Colab, please follow the instructions within the file step by step and all the neccesary 
-libraries and datasets will be installed along the way. It is also suggsted to runthe script on your Colab sinc the ML models might take som
-time to set up for the first time.
+The script was previously developed inside Google Colab. Please follow the instructions within the file step by step, and all the necessary 
+libraries and datasets will be installed along the way. It is also suggested to run the script on your Colab since the ML models might take 
+some time to set up for the first time.
 
 ## What's Next
 
-Based on the protorype, I am currently improving the data collection mechanism from Google Maps API, aiming to better fine-tune the NLTK for
-Better segmentation results. Also, I am seeking new models to cross the language barrier and operate the pipeline in cities that do not use Eng
-as their primary language. 
+Based on the prototype, I am currently improving the data collection mechanism from the Google Maps API, aiming to better fine-tune the NLTK 
+for improved segmentation results. Additionally, I am seeking new models to cross the language barrier and operate the pipeline in cities that 
+do not use English as their primary language. 
